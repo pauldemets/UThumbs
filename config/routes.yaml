@@ -1,0 +1,3 @@
+#index:
+#    path: /
+#    controller: App\Controller\Web\BraveCaptainController::brave_captain

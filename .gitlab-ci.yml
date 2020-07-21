@@ -1,0 +1,16 @@
+
+
+# Variables and root user used
+variables:
+  MYSQL_PASSWORD: 2BtrCM9agZho1wMc9xT1
+  MYSQL_DATABASE: db
+
+
+before_script:
+    - ./composer.phar install 
+    - pwd
+job:
+    script: echo 'my first job'
+
+
+  
