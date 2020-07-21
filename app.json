@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "U'thumbs",
+    "slug": "uthumbs",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.u.thumb",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBsBl4yr24juEs-97Tux4sx_xg0EXqmXSU"
+        }
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.u.thumb",
+      "config": {
+        "googleMapsApiKey": "AIzaSyD6kKbE3qZiyo3CavJfPS2DdRXSMU6o53A"
+      }
+    },
+    "description": ""
+  }
+}
