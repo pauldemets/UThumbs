@@ -10,6 +10,6 @@ Les personnes suivantes ont contribué au développement de ce projet :
 - Tony Pedrero
 - Marwane El Aouni
 
-Voici un QR Code pour télécharger l'APK de l'application (notre serveur n'est plus fonctionnel donc il risque d'y avoir quelques problèmes).
+Voici un petit aperçu de l'application(elle n'est plus disponible aujourd'hui) :
 
-<img src="https://user-images.githubusercontent.com/47208689/88082999-c9cc0700-cb82-11ea-8971-bcd10e1a49b0.png" width="300" height="300">
+![affiche_finalePNG](https://user-images.githubusercontent.com/47208689/88084437-ba4dbd80-cb84-11ea-8386-291af9eee1d2.png)
